@@ -1,2 +1,2 @@
 # demo
-beginner to git hub
+beginner to git hubtrh
